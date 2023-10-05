@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: EducationalOrganization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Bioelectronics Lab at MIT'
+    description: ''
+    twitter: 'AnikeevaLab'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,15 +37,15 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} **Bioelectronics Group – Massachusetts Institute of Technology**. All Rights Reserved'
     license:
       enable: true
       allow_derivatives: false
