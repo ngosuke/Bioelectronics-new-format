@@ -1,6 +1,6 @@
 ---
-title: Magnetic manipulation and recording of neuronal signaling with nanomaterials 
-summary: Minimally invasive neural stimulation
+title: "Area I: Magnetic manipulation and recording of neuronal signaling with nanomaterials"
+summary: 
 tags:
 - Nanotransducers
 date: "2023-10-03T00:00:00Z"

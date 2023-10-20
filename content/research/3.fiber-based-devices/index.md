@@ -1,9 +1,9 @@
 ---
-title: Fiber-based Devices
-summary: Tissue repair and replacement
+title: "Area III: Contributions of peripheral organ signaling to brain function and behavior"
+summary: 
 tags:
-- Devices
-date: "2020-09-20T00:00:00Z"
+- gut-brain
+date: "2023-10-03T00:00:00Z"
 authors:
 - Polina Anikeeva
 weight: 30
@@ -12,7 +12,7 @@ weight: 30
 external_link: ""
 
 image:
-  caption: Fiber-based tools for spinal cord repair and artificial muscles
+  caption: 
   focal_point: Smart
 
 links: []
@@ -29,9 +29,4 @@ url_video: ""
 slides: example
 ---
 
-In addition to neural interrogation, we are interested in using fiber-based all-polymer devices as scaffolds for neural tissue engineering and as potential replacements to the injured organs. The versatility of the fiber drawing process allows us to investigate the surface polarity and topographic structure of polymer-based nerve guidance channels on the axonal growth. Furthermore, we can design the fiber-based scaffolds to incorporate neural recording and optical neuromodulation capabilities. The latter may enable us to investigate the role of neural excitation on the axonal growth within the topographically controlled environment. We have recently found that optical neural excitation increases axonal growth by 3-4 fold, and furthermore exerts a directional bias on the growth of unstimulated tissues ([Sci. Rep. 2015](../../publication/park-2015-optogenetic/)). By combining this finding with the ability to optimize the scaffold geometry ([Biomaterials 2016](../../publication/koppes-2016-thermally/)) and nutrient transport ([Adv. Mater. 2019](../../publication/shahriari-2019-scalable/)) we intend to control the formation of synaptic connections between the neurons trapped within our scaffolds and the neurons within the brain, spinal cord or peripheral nerves.
-
-
-With the goal of developing seamless interfaces between the prosthetic limbs and the injured nerves, we applied fiber fabrication to create light-weight fiber-based artificial muscles ([Science 2019](../../publication/kanik-2019-strain/)). These devices mimicking the structure of cucumber tendrils, are composed of bimorphs of an elastomer and a high-performance plastic with drastically different coefficients of thermal expansion that have been subjected to strains in excess of 700% to impart helical geometry. Upon an exposure to a moderate temperature increase (~10°C), these devices can respond with sub-second latencies lifting >600 times their weight.
-
-
+Neurological (e.g. Parkinson’s) and psychiatric conditions (e.g. mood disorders, social deficits) are often accompanied with comorbidities in the peripheral organ function suggesting a link between the neuronal and endocrine signaling in the periphery and brain dynamics and behavior. We apply our magnetic approaches and multifunctional devices to uncover the enigmatic brain-body circuits that underly the peripheral influences on high-level functions such as reward, affect, or decision making. For instance, using our microelectronic fibers deployed in the duodenum, we found that optically stimulating vagal afferents in the gut is sufficient to impart a reward phenotype ([Nat. Biotech.](../../publication/shahriari-2023-multifunctional/)) previously attributed to dopamine neuron signaling in the brain. Our current projects leverage the neurotechnologies developed in our group in fundamental studies of organ-brain interoception under physiological conditions and in models of Parkinson’s disease, Autism, and affective disorders.
